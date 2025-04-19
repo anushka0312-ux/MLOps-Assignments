@@ -1,3 +1,9 @@
+# Student Details
+*Name:* Anushka Wani <br>
+*Roll No:* 372005 <br>
+*PRN No.:* 22211007 <br>
+*Div:* 'B' <br>
+*Dept.:* AI & DS <br>
 # MLOps Assignments
 
 
